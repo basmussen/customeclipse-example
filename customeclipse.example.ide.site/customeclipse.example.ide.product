@@ -43,7 +43,8 @@
    </plugins>
 
    <features>
-   <feature id="org.tigris.subversion.subclipse.feature.group" />
+   <feature id="org.tigris.subversion.subclipse.feature" />
+   <feature id="org.tigris.subversion.subclipse.feature" installMode="root"/>
 <feature id="customeclipse.example.ide.feature"/>
       <feature id="customeclipse.example.feature" installMode="root"/>
    </features>
