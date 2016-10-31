@@ -40,11 +40,12 @@
    </vm>
 
    <plugins>
+   <plugin id="org.eclipse.team.svn" version="3.0.1.I20150722-1700"/>
+   <plugin id="org.eclipse.team.svn" version="3.0.1.I20150722-1700" installMode="root"/>
    </plugins>
 
    <features>
-   <feature id="org.eclipse.team.svn" version="3.0.1.I20150722-1700"/>
-   <feature id="org.eclipse.team.svn" version="3.0.1.I20150722-1700" installMode="root"/>
+   
 <feature id="customeclipse.example.ide.feature"/>
       <feature id="customeclipse.example.feature" installMode="root"/>
    </features>
