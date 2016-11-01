@@ -45,7 +45,8 @@
    </plugins>
 
    <features>
-   
+   <feature id="org.eclipse.egit" version="4.0.3.201509231615-r"/>
+   <feature id="org.eclipse.egit" version="4.0.3.201509231615-r" installMode="root"/>
 <feature id="customeclipse.example.ide.feature"/>
       <feature id="customeclipse.example.feature" installMode="root"/>
    </features>
